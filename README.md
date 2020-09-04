@@ -1,4 +1,5 @@
 # Calculator
+- The calculator can add, subtract, multiply, divide and module. Also, parentheses can be used for complex operations
 - version 1
 
 ### Image of Emulator:
